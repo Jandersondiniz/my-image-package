@@ -8,15 +8,6 @@ Image Processing Package is a Python library designed to simplify common image p
 
 ---
 
-## Features
-
-- Image resizing
-- Histogram transfer between images
-- Image reading and saving
-- Plotting utilities for image visualization
-
----
-
 ## Acknowledgments
 
  - This package was built using scikit-image
