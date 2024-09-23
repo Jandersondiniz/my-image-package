@@ -8,12 +8,12 @@ with open ('requirements.txt') as f:
     
 setup(
     name='my-image-processing',
-    version='0.0.',
+    version='0.0.0',
     author='Janderson Diniz',
     description='Image processing package using Skimage DIO',
     long_description=page_description,
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/Jandersondiniz/my-image-package',
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.5',
